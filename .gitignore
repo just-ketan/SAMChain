@@ -5,3 +5,8 @@ node_modules/
 vendor/
 test-network/
 organizations/
+fabric-samples/test-network/organizations/
+fabric-samples/test-network/system-genesis-block/
+fabric-samples/test-network/channel-artifacts/
+*.log
+*.tar.gz
